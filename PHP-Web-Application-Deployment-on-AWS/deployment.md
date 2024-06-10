@@ -7,7 +7,8 @@ The primary objectives of the capstone project are to deploy the PHP application
 
 ### $\textcolor{red}{AWS\ Architectural\ Design}$
 
-![image](https://github.com/swethamurthy25/AWS-Capstone-Project/assets/112581595/a6114c78-7019-4de5-8ffb-667643bd05d0)
+![final](https://github.com/swethamurthy25/Real-time-Projects/assets/112581595/c9c34174-4098-4498-a955-f89837c1bd78)
+
 
 
 ### $\textcolor{red}{Implementation\ Procedure}$
